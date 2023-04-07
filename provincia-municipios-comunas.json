@@ -1,0 +1,2787 @@
+[
+    {
+        "provincia": "Bengo",
+        "municipio": "Dande (Caxito)",
+        "comuna": "Caxito"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Dande (Caxito)",
+        "comuna": "Barra do Dande"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Dande (Caxito)",
+        "comuna": "Quicabo"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Dande (Caxito)",
+        "comuna": "Úcua"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Dande (Caxito)",
+        "comuna": "Mabubas"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Ambriz",
+        "comuna": "Ambriz"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Ambriz",
+        "comuna": "Bela Vista"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Ambriz",
+        "comuna": "Tabi"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Nambuangongo",
+        "comuna": "Muxiluando"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Nambuangongo",
+        "comuna": "Canacassala"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Nambuangongo",
+        "comuna": "Cage"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Nambuangongo",
+        "comuna": "Gombe"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Nambuangongo",
+        "comuna": "Quicunzo"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Nambuangongo",
+        "comuna": "Quixico"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Nambuangongo",
+        "comuna": "Zala"
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Bula-Atumba",
+        "comuna": "Bula-Atumba "
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Bula-Atumba",
+        "comuna": "Quiage "
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Dembos-Quibaxe",
+        "comuna": "Quibaxe "
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Dembos-Quibaxe",
+        "comuna": "Piri "
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Dembos-Quibaxe",
+        "comuna": "Paredes "
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Dembos-Quibaxe",
+        "comuna": "S. José das Matas "
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Pango-Aluquem",
+        "comuna": "Pango-Aluquem "
+    },
+    {
+        "provincia": "Bengo",
+        "municipio": "Pango-Aluquem",
+        "comuna": "Cazua - Ngongo "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Benguela",
+        "comuna": "Benguela"
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Baía Farta ",
+        "comuna": "Baía Farta "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Baía Farta ",
+        "comuna": "Dombe Grande "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Baía Farta ",
+        "comuna": "Calahanga "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Baía Farta ",
+        "comuna": "Equimina "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Lobito ",
+        "comuna": "Lobito "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Lobito ",
+        "comuna": "Egipto Praia "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Lobito ",
+        "comuna": "Canjala "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Cubal ",
+        "comuna": "Cubal"
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Cubal ",
+        "comuna": "Yambala "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Cubal ",
+        "comuna": "Capupa "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Cubal ",
+        "comuna": "Tumbulo (Lomaum )"
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Ganda ",
+        "comuna": "Ganda "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Ganda ",
+        "comuna": "Babaera "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Ganda ",
+        "comuna": "Chicuma "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Ganda ",
+        "comuna": "Ebanga "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Ganda ",
+        "comuna": "Casseque "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Balombo ",
+        "comuna": "Balombo "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Balombo ",
+        "comuna": "Chingongo "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Balombo ",
+        "comuna": "Chindumbo "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Balombo ",
+        "comuna": "Maka -Mombolo"
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Bocoio ",
+        "comuna": "Bocoio "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Bocoio ",
+        "comuna": "Chila "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Bocoio ",
+        "comuna": "Monte Belo "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Bocoio ",
+        "comuna": "Passe "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Bocoio ",
+        "comuna": "Cubal do Lumbo "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Caimbambo ",
+        "comuna": "Caimbambo "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Caimbambo ",
+        "comuna": "Catengue "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Caimbambo ",
+        "comuna": "Cayavi "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Caimbambo ",
+        "comuna": "Wyangombe "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Chongoroi ",
+        "comuna": "Chongoroi "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Chongoroi ",
+        "comuna": "Bolonguera "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Chongoroi ",
+        "comuna": "Kamuine "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Catumbela ",
+        "comuna": "Catumbela "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Catumbela ",
+        "comuna": "Gama "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Catumbela ",
+        "comuna": "Biopio "
+    },
+    {
+        "provincia": "Benguela",
+        "municipio": "Catumbela ",
+        "comuna": "Praia Bebe "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Cuito ",
+        "comuna": "Cuito"
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Cuito ",
+        "comuna": "Trumba "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Cuito ",
+        "comuna": "Kambândua "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Cuito ",
+        "comuna": "Chicala "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Cuito ",
+        "comuna": "Kunje "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Cunhinga (Vouga )",
+        "comuna": "Cunhinga"
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Cunhinga (Vouga )",
+        "comuna": "Belo Horizonte "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Chinguar ",
+        "comuna": "Chinguar "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Chinguar ",
+        "comuna": "Cangote "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Chinguar ",
+        "comuna": "Kutato "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Andulo",
+        "comuna": "Andulo"
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Andulo",
+        "comuna": "Chivaúlo "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Andulo",
+        "comuna": "Cassumbe "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Andulo",
+        "comuna": "Calucinga "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "N'harea",
+        "comuna": "N'harea"
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "N'harea",
+        "comuna": "Gamba "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "N'harea",
+        "comuna": "Caiei "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "N'harea",
+        "comuna": "Lubia "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "N'harea",
+        "comuna": "Dando "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Camacupa",
+        "comuna": "Camacupa"
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Camacupa",
+        "comuna": "Ringoma "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Camacupa",
+        "comuna": "Umpulo "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Camacupa",
+        "comuna": "Stº .António da Muinha "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Camacupa",
+        "comuna": "Cuanza "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Cuemba ",
+        "comuna": "Cuemba "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Cuemba ",
+        "comuna": "Munhango "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Cuemba ",
+        "comuna": "Luando "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Cuemba ",
+        "comuna": "Sachinemuna "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Chitembo",
+        "comuna": "Chitembo "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Chitembo",
+        "comuna": "Cachingues "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Chitembo",
+        "comuna": "Mumbue "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Chitembo",
+        "comuna": "Mutumbo "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Chitembo",
+        "comuna": "Malengue "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Chitembo",
+        "comuna": "Soma Cuanza "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Catabola (ex. Nova Sintra)",
+        "comuna": "Catabola "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Catabola (ex. Nova Sintra)",
+        "comuna": "Chipeta "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Catabola (ex. Nova Sintra)",
+        "comuna": "Sande "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Catabola (ex. Nova Sintra)",
+        "comuna": "Caiuera "
+    },
+    {
+        "provincia": "Bié",
+        "municipio": "Catabola (ex. Nova Sintra)",
+        "comuna": "Chiuca "
+    },
+    {
+        "provincia": "Cabinda",
+        "municipio": "Cabinda",
+        "comuna": "Cabinda"
+    },
+    {
+        "provincia": "Cabinda",
+        "municipio": "Cabinda",
+        "comuna": "Malembo"
+    },
+    {
+        "provincia": "Cabinda",
+        "municipio": "Cabinda",
+        "comuna": "Tando Zinze"
+    },
+    {
+        "provincia": "Cabinda",
+        "municipio": "Cacongo (ex_Lândana )",
+        "comuna": "Cacongo"
+    },
+    {
+        "provincia": "Cabinda",
+        "municipio": "Cacongo (ex_Lândana )",
+        "comuna": "Dinge"
+    },
+    {
+        "provincia": "Cabinda",
+        "municipio": "Cacongo (ex_Lândana )",
+        "comuna": "Massabi"
+    },
+    {
+        "provincia": "Cabinda",
+        "municipio": "Buco Zau",
+        "comuna": "Buco Zau"
+    },
+    {
+        "provincia": "Cabinda",
+        "municipio": "Buco Zau",
+        "comuna": "Inhuca (Nhuca )"
+    },
+    {
+        "provincia": "Cabinda",
+        "municipio": "Buco Zau",
+        "comuna": "Necuto"
+    },
+    {
+        "provincia": "Cabinda",
+        "municipio": "Belize",
+        "comuna": "Belize"
+    },
+    {
+        "provincia": "Cabinda",
+        "municipio": "Belize",
+        "comuna": "Luali"
+    },
+    {
+        "provincia": "Cabinda",
+        "municipio": "Belize",
+        "comuna": "Miconge"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Menongue",
+        "comuna": "Menongue"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Menongue",
+        "comuna": "Cueio"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Menongue",
+        "comuna": "Caiundo"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Menongue",
+        "comuna": "Missombo"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Cuito Cuanavale",
+        "comuna": "Cuito Cuanavale"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Cuito Cuanavale",
+        "comuna": "Longa"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Cuito Cuanavale",
+        "comuna": "Lupire"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Cuito Cuanavale",
+        "comuna": "Baixo Longa"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Cuangar",
+        "comuna": "Cuangar"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Cuangar",
+        "comuna": "Savate"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Cuangar",
+        "comuna": "Bondo"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Rivungo",
+        "comuna": "Rivungo"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Rivungo",
+        "comuna": "Luiana"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Rivungo",
+        "comuna": "Nerinquinha"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Rivungo",
+        "comuna": "Chipundo"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Mavinga",
+        "comuna": "Mavinga"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Mavinga",
+        "comuna": "Cunjamba -Dima"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Mavinga",
+        "comuna": "Cutuile"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Mavinga",
+        "comuna": "Luengue"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Cuchi",
+        "comuna": "Cuchi"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Cuchi",
+        "comuna": "Cutato"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Cuchi",
+        "comuna": "Chinguanja"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Cuchi",
+        "comuna": "Vissati"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Dirico",
+        "comuna": "Dirico"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Dirico",
+        "comuna": "Chamavera"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Dirico",
+        "comuna": "Mucusso"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Nancova",
+        "comuna": "Nancova"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Nancova",
+        "comuna": "Rito"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Calai",
+        "comuna": "Calai"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Calai",
+        "comuna": "Maue"
+    },
+    {
+        "provincia": "Cuando Cubango",
+        "municipio": "Calai",
+        "comuna": "Mavengue"
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Cazengo ",
+        "comuna": "Ndalatando "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Cazengo ",
+        "comuna": "Canhoca (Ex Caculo )"
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Lucala ",
+        "comuna": "Lucala "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Lucala ",
+        "comuna": "Kiangombe "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Golungo Alto ",
+        "comuna": "Golungo Alto "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Golungo Alto ",
+        "comuna": "Cambondo "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Golungo Alto ",
+        "comuna": "Cerca "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Golungo Alto ",
+        "comuna": "Kiluange "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Cambambe ",
+        "comuna": "Dondo "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Cambambe ",
+        "comuna": "Massangano "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Cambambe ",
+        "comuna": "S. Pedro da Quilemba "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Cambambe ",
+        "comuna": "Zenza do Itombe "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Cambambe ",
+        "comuna": "Dange -Ya -Menha "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Ambaca ",
+        "comuna": "Ambaca (ex Camabatela )"
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Ambaca ",
+        "comuna": "Luinga "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Ambaca ",
+        "comuna": "Tango "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Ambaca ",
+        "comuna": "Maua "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Ambaca ",
+        "comuna": "Bindo "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Quiculungo ",
+        "comuna": "Kiculungo "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Bolongongo ",
+        "comuna": "Bolongongo "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Bolongongo ",
+        "comuna": "Terreiro "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Bolongongo ",
+        "comuna": "Kiquiemba "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Banga",
+        "comuna": "Banga "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Banga",
+        "comuna": "Aldeia Nova "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Banga",
+        "comuna": "Caculo Cabaça "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Banga",
+        "comuna": "Cariamba "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Samba Cajú ",
+        "comuna": "Samba Cajú "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Samba Cajú ",
+        "comuna": "Samba Lucala "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Ngonguembo ",
+        "comuna": "Quilombo dos Dembos "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Ngonguembo ",
+        "comuna": "Camame "
+    },
+    {
+        "provincia": "Cuanza Norte",
+        "municipio": "Ngonguembo ",
+        "comuna": "Cavunga "
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Sumbe (ex. Ngunza)",
+        "comuna": "Sumbe Sede"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Sumbe (ex. Ngunza)",
+        "comuna": "Gungo"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Sumbe (ex. Ngunza)",
+        "comuna": "Ngangula"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Sumbe (ex. Ngunza)",
+        "comuna": "Kicombo"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Amboim (ex. Gabela)",
+        "comuna": "Gabela Sede"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Amboim (ex. Gabela)",
+        "comuna": "Assango"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Quilenda",
+        "comuna": "Quilenda"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Quilenda",
+        "comuna": "Quirimbo"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Porto Amboim",
+        "comuna": "Porto Amboim"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Porto Amboim",
+        "comuna": "Kapolo"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Libolo (ex. Calulo)",
+        "comuna": "Calulo"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Libolo (ex. Calulo)",
+        "comuna": "Munenga"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Libolo (ex. Calulo)",
+        "comuna": "Kabuta"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Libolo (ex. Calulo)",
+        "comuna": "Kissongo"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Quibala",
+        "comuna": "Quibala"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Quibala",
+        "comuna": "Ndala Kachibo"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Quibala",
+        "comuna": "Kariango"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Quibala",
+        "comuna": "Lonhe"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Mussende",
+        "comuna": "Mussende"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Mussende",
+        "comuna": "Kienha"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Mussende",
+        "comuna": "S. Lucas"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Seles (ex. Uku Seles)",
+        "comuna": "Uku-Seles"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Seles (ex. Uku Seles)",
+        "comuna": "Amboiva"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Seles (ex. Uku Seles)",
+        "comuna": "Botera (Catanda)"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Conda",
+        "comuna": "Conda"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Conda",
+        "comuna": "Cunjo"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Cassongue",
+        "comuna": "Cassongue"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Cassongue",
+        "comuna": "Dumbi"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Cassongue",
+        "comuna": "Pambangala"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Cassongue",
+        "comuna": "Atóme"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Cela ( ex Waku-Kungo)",
+        "comuna": "Cela ( ex Waku-Kungo)"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Cela ( ex Waku-Kungo)",
+        "comuna": "Sanga"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Cela ( ex Waku-Kungo)",
+        "comuna": "Kissanga Kungo"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Ebo",
+        "comuna": "Ebo"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Ebo",
+        "comuna": "Conde"
+    },
+    {
+        "provincia": "Cuanza Sul",
+        "municipio": "Ebo",
+        "comuna": "Cassange"
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Cuanhama ",
+        "comuna": "Ondjiva "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Cuanhama ",
+        "comuna": "Môngua "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Cuanhama ",
+        "comuna": "Evale "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Cuanhama ",
+        "comuna": "Cafima -Nehone "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Cuanhama ",
+        "comuna": "Tchimporo -Yonde "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Ombadja (ex .Cuamato )",
+        "comuna": "Xangongo "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Ombadja (ex .Cuamato )",
+        "comuna": "Ombala -yo -Mungu "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Ombadja (ex .Cuamato )",
+        "comuna": "Humbe "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Ombadja (ex .Cuamato )",
+        "comuna": "Mucope /Mucoma "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Ombadja (ex .Cuamato )",
+        "comuna": "Naulila "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Cuvelai ",
+        "comuna": "Omukolongonjo "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Cuvelai ",
+        "comuna": "Kalonga "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Cuvelai ",
+        "comuna": "Kuvati (Ex -Kubati )"
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Cuvelai ",
+        "comuna": "Omunda (Mupa )"
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Curoca (ex.Oncocua )",
+        "comuna": "Kuroca "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Curoca (ex.Oncocua )",
+        "comuna": "Chitado "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Namacunde ",
+        "comuna": "Namacunde "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Namacunde ",
+        "comuna": "Melunga_Chiede "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Cahama ",
+        "comuna": "Kahama "
+    },
+    {
+        "provincia": "Cunene",
+        "municipio": "Cahama ",
+        "comuna": "Otchinjau "
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Huambo",
+        "comuna": "Huambo"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Huambo",
+        "comuna": "Calima"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Huambo",
+        "comuna": "Tchipipa"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Tchikala -Tcholohanga",
+        "comuna": "Tchikala Tcholohanga"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Tchikala -Tcholohanga",
+        "comuna": "Mbave"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Tchikala -Tcholohanga",
+        "comuna": "Sambo"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Tchikala -Tcholohanga",
+        "comuna": "Hungulo"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Catchiungo",
+        "comuna": "Katchiungo"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Catchiungo",
+        "comuna": "Tchiumbo"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Catchiungo",
+        "comuna": "Tchinhama"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Bailundo",
+        "comuna": "Bailundo"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Bailundo",
+        "comuna": "M'Bimbi (ex .Bimbe )"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Bailundo",
+        "comuna": "Lunje"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Bailundo",
+        "comuna": "Luvemba"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Bailundo",
+        "comuna": "Hengue (kululo )"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Caála",
+        "comuna": "Caála"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Caála",
+        "comuna": "Cuima"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Caála",
+        "comuna": "Catata"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Caála",
+        "comuna": "Calenga"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Ecunha",
+        "comuna": "Ecunha"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Ecunha",
+        "comuna": "Chipeio"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Ukuma",
+        "comuna": "Ukuma"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Ukuma",
+        "comuna": "Cacoma"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Ukuma",
+        "comuna": "Mundundo"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Longonjo",
+        "comuna": "Longonjo"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Longonjo",
+        "comuna": "Lépi"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Longonjo",
+        "comuna": "Catabola"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Longonjo",
+        "comuna": "Chilata (Ngombe -yá Lamba )"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Mungo",
+        "comuna": "Mungo"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Mungo",
+        "comuna": "Cambuengo"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Londuimbale",
+        "comuna": "Londuimbale"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Londuimbale",
+        "comuna": "Kumbila (Katukuluca )"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Londuimbale",
+        "comuna": "Galanga"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Londuimbale",
+        "comuna": "Ussoque"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Londuimbale",
+        "comuna": "Alto Hama"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Tchinjenje",
+        "comuna": "Tchinjenje"
+    },
+    {
+        "provincia": "Huambo",
+        "municipio": "Tchinjenje",
+        "comuna": "Tchiaka"
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Lubango ",
+        "comuna": "Arimba "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Lubango ",
+        "comuna": "Hoque "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Lubango ",
+        "comuna": "Huila "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Lubango ",
+        "comuna": "Lubango "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Lubango ",
+        "comuna": "Quilenda "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Caconda ",
+        "comuna": "Caconda "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Caconda ",
+        "comuna": "Cusse "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Caconda ",
+        "comuna": "Gungui "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Caconda ",
+        "comuna": "Uaba "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Cacula ",
+        "comuna": "Cacula "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Cacula ",
+        "comuna": "Chicuaqueia "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Cacula ",
+        "comuna": "Tchituto "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Cacula ",
+        "comuna": "Vite -Vivar "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Caluquembe ",
+        "comuna": "Calépi "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Caluquembe ",
+        "comuna": "Caluquembe "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Caluquembe ",
+        "comuna": "N'gola "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Chibia ",
+        "comuna": "Capunda Cavilongo "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Chibia ",
+        "comuna": "Chibia "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Chibia ",
+        "comuna": "Jau "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Chibia ",
+        "comuna": "Quihita "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Chicomba ",
+        "comuna": "Chicomba "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Chicomba ",
+        "comuna": "Kutenda (ex .Chitenda )"
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Chicomba ",
+        "comuna": "Libongue "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Chicomba ",
+        "comuna": "Quê "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Chipindo ",
+        "comuna": "Bambi "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Chipindo ",
+        "comuna": "Bunjei "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Chipindo ",
+        "comuna": "Chipindo "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Cuvango ",
+        "comuna": "Cuvango "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Cuvango ",
+        "comuna": "Galangue "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Cuvango ",
+        "comuna": "Vicungo "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Gambos (ex -Chiange )",
+        "comuna": "Chimbemba "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Gambos (ex -Chiange )",
+        "comuna": "Gambos "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Humpata ",
+        "comuna": "Bata -bata "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Humpata ",
+        "comuna": "Humpata "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Humpata ",
+        "comuna": "Kaholo "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Humpata ",
+        "comuna": "Neves "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Humpata ",
+        "comuna": "Palanca "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Jamba ",
+        "comuna": "Dongo "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Jamba ",
+        "comuna": "Jamba "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Jamba ",
+        "comuna": "Tchamutete (ex -Cassinga )"
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Matala ",
+        "comuna": "Capelongo "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Matala ",
+        "comuna": "Matala "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Matala ",
+        "comuna": "Micosse "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Matala ",
+        "comuna": "Mulondo "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Quilengues ",
+        "comuna": "Dinde "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Quilengues ",
+        "comuna": "Impulo "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Quilengues ",
+        "comuna": "Quilengues "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Quipungo ",
+        "comuna": "Cainda "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Quipungo ",
+        "comuna": "Chicungo "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Quipungo ",
+        "comuna": "Ombo "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Quipungo ",
+        "comuna": "Quipungo "
+    },
+    {
+        "provincia": "Huíla",
+        "municipio": "Quipungo ",
+        "comuna": "Tchiconco "
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Cazenga",
+        "comuna": "Cazenga"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Cazenga",
+        "comuna": "Hoji Ya Henda"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Cazenga",
+        "comuna": "Tala Hadi"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Cacuaco",
+        "comuna": "Cacuaco"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Cacuaco",
+        "comuna": "Funda"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Cacuaco",
+        "comuna": "Kikolo"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Viana",
+        "comuna": "Viana"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Viana",
+        "comuna": "Zango"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Viana",
+        "comuna": "Calumbo"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Luanda",
+        "comuna": "Ingombota"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Luanda",
+        "comuna": "Maianga"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Luanda",
+        "comuna": "Samba"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Luanda",
+        "comuna": "Rangel"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Luanda",
+        "comuna": "Sambizanga"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Luanda",
+        "comuna": "Kilamba Kiaxi"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Belas",
+        "comuna": "Barra do Kwanza"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Belas",
+        "comuna": "Kilamba"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Belas",
+        "comuna": "Camama"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Belas",
+        "comuna": "Benfica"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Belas",
+        "comuna": "Mussulo"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Belas",
+        "comuna": "Futungo de Belas"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Belas",
+        "comuna": "Ramiros"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Icolo e  Bengo",
+        "comuna": "Catete"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Icolo e  Bengo",
+        "comuna": "Bom Jesus"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Icolo e  Bengo",
+        "comuna": "Cabiri"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Icolo e  Bengo",
+        "comuna": "Calomboloca"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Icolo e  Bengo",
+        "comuna": "Caculo Cahongo"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Quissama",
+        "comuna": "Muxima"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Quissama",
+        "comuna": "Demba Chio"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Quissama",
+        "comuna": "Mumbondo"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Quissama",
+        "comuna": "Kixinge"
+    },
+    {
+        "provincia": "Luanda",
+        "municipio": "Quissama",
+        "comuna": "Cabo Ledo"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Lucapa",
+        "comuna": "Lucapa"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Lucapa",
+        "comuna": "Camissombo"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Lucapa",
+        "comuna": "Capaia"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Lucapa",
+        "comuna": "Xa -Cassau"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Cambulo",
+        "comuna": "Cambulo"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Cambulo",
+        "comuna": "Canzar"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Cambulo",
+        "comuna": "Cachimo"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Cambulo",
+        "comuna": "Luia"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Chitato",
+        "comuna": "Chitato"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Chitato",
+        "comuna": "Luachimo"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Cuilo",
+        "comuna": "Cuilo"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Cuilo",
+        "comuna": "Caluango"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Caungula",
+        "comuna": "Caungula"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Caungula",
+        "comuna": "Camaxilo"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Cuango",
+        "comuna": "Cuango"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Cuango",
+        "comuna": "Luremo"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Lubalo",
+        "comuna": "Lubalo"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Lubalo",
+        "comuna": "Muvulege"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Lubalo",
+        "comuna": "Luangue"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Capenda-Camulemba",
+        "comuna": "Capenda -Camulemba"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Capenda-Camulemba",
+        "comuna": "Xinge"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Xá-Muteba",
+        "comuna": "Xá -Muteba"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Xá-Muteba",
+        "comuna": "longo"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Xá-Muteba",
+        "comuna": "Cassange -Calucala"
+    },
+    {
+        "provincia": "Lunda Norte",
+        "municipio": "Lóvua",
+        "comuna": "Lóvua"
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Saurimo ",
+        "comuna": "Saurimo "
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Saurimo ",
+        "comuna": "Mona Quimbundo "
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Saurimo ",
+        "comuna": "Sombo "
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Muconda ",
+        "comuna": "Muconda "
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Muconda ",
+        "comuna": "Chiluanje "
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Muconda ",
+        "comuna": "Murieje "
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Muconda ",
+        "comuna": "Cassai -Sul "
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Dala ",
+        "comuna": "Dala "
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Dala ",
+        "comuna": "Cazaje "
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Dala ",
+        "comuna": "Luma Cassai "
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Cacolo ",
+        "comuna": "Cacolo "
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Cacolo ",
+        "comuna": "Alto -Chicapa "
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Cacolo ",
+        "comuna": "Cucumbi "
+    },
+    {
+        "provincia": "Lunda Sul",
+        "municipio": "Cacolo ",
+        "comuna": "Xassengue "
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Malanje",
+        "comuna": "Malanje"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Malanje",
+        "comuna": "Cambaxe"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Malanje",
+        "comuna": "Ngola-Luige"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cacuso",
+        "comuna": "Cacuso"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cacuso",
+        "comuna": "Pungo-Andongo"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cacuso",
+        "comuna": "Lombe"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cacuso",
+        "comuna": "Quizenga"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cacuso",
+        "comuna": "Soqueco"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Calandula",
+        "comuna": "Calandula"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Calandula",
+        "comuna": "Kateco-Kangola"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Calandula",
+        "comuna": "Cuale"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Calandula",
+        "comuna": "Kota"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Calandula",
+        "comuna": "Kinge"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cambundi-Catembo",
+        "comuna": "Cambundi-Catembo"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cambundi-Catembo",
+        "comuna": "Tala-Mungongo"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cambundi-Catembo",
+        "comuna": "Dumba Kabango"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cambundi-Catembo",
+        "comuna": "Kitapa - sede"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Quela",
+        "comuna": "Quela"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Quela",
+        "comuna": "Xandele"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Quela",
+        "comuna": "Moma"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Quela",
+        "comuna": "Bangâlas"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cahombo",
+        "comuna": "Kahombo"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cahombo",
+        "comuna": "Mikanda"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cahombo",
+        "comuna": "Kambo - Suinginge"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cahombo",
+        "comuna": "Bange-Angola"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Massango",
+        "comuna": "Massango"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Massango",
+        "comuna": "Kihuhu"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Massango",
+        "comuna": "Kinguengue"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Luquembo",
+        "comuna": "Luquembo"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Luquembo",
+        "comuna": "Kimbango"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Luquembo",
+        "comuna": "Dombo"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Luquembo",
+        "comuna": "Kapunda"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Luquembo",
+        "comuna": "Cunga-Palanca"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Luquembo",
+        "comuna": "Rimba"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Marimba",
+        "comuna": "Marimba"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Marimba",
+        "comuna": "Dala-Samba (Kahombo)"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Marimba",
+        "comuna": "Tembo-Aluma"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cunda-Dia-Baze",
+        "comuna": "Cunda-Dia-Baze"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cunda-Dia-Baze",
+        "comuna": "Milando"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cunda-Dia-Baze",
+        "comuna": "Lemba"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Quirima",
+        "comuna": "Quirima"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Quirima",
+        "comuna": "Sautar"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Mucari",
+        "comuna": "Mucari (Caculama)"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Mucari",
+        "comuna": "Muquixi"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Mucari",
+        "comuna": "Catala"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Mucari",
+        "comuna": "Caxinga"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cangandala",
+        "comuna": "Cangandala"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cangandala",
+        "comuna": "Caribo"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cangandala",
+        "comuna": "Mbembo"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Cangandala",
+        "comuna": "Kulamagia"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Quiuaba-N'zongi",
+        "comuna": "Quiuaba-N'zongi"
+    },
+    {
+        "provincia": "Malange",
+        "municipio": "Quiuaba-N'zongi",
+        "comuna": "Mufuma"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Luena",
+        "comuna": "Luena"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Luena",
+        "comuna": "Cangumbe /Cachipoque"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Luena",
+        "comuna": "Lucusse"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Luena",
+        "comuna": "Lutuai (Muangai )"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Camanongue",
+        "comuna": "Camanongue"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Léua",
+        "comuna": "Léua"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Léua",
+        "comuna": "Liangongo (Sandando )"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Luacano",
+        "comuna": "Luacano"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Luacano",
+        "comuna": "Lago -Dilolo"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Cameias",
+        "comuna": "Cameia"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Bundas -Lumbala -Nguimbo",
+        "comuna": "Lumbala- Nguimbo"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Bundas -Lumbala -Nguimbo",
+        "comuna": "Chiume"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Bundas -Lumbala -Nguimbo",
+        "comuna": "Lutembo"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Bundas -Lumbala -Nguimbo",
+        "comuna": "Mussuma"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Bundas -Lumbala -Nguimbo",
+        "comuna": "Ninda"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Bundas -Lumbala -Nguimbo",
+        "comuna": "Sessa"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Bundas -Lumbala -Nguimbo",
+        "comuna": "Luvuei"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Luchazes",
+        "comuna": "Luchazes"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Luchazes",
+        "comuna": "Tempue"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Luchazes",
+        "comuna": "Cassamba"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Luchazes",
+        "comuna": "Muie"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Luchazes",
+        "comuna": "Cangombe"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Alto Zambeze",
+        "comuna": "Cazombo"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Alto Zambeze",
+        "comuna": "Caianda"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Alto Zambeze",
+        "comuna": "Calunda"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Alto Zambeze",
+        "comuna": "Lóvua"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Alto Zambeze",
+        "comuna": "Caquengue"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Alto Zambeze",
+        "comuna": "Macondo"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Alto Zambeze",
+        "comuna": "Cavungo"
+    },
+    {
+        "provincia": "Moxico",
+        "municipio": "Luau",
+        "comuna": "Luau"
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Namibe ",
+        "comuna": "Bentiaba "
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Namibe ",
+        "comuna": "Lucira "
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Namibe ",
+        "comuna": "Namibe (Forte Santa Rita )"
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Bibala ",
+        "comuna": "Bibala "
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Bibala ",
+        "comuna": "Caitou "
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Bibala ",
+        "comuna": "Kapangombe "
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Bibala ",
+        "comuna": "Lola "
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Tômbwa (ex .Porto Alexandre )",
+        "comuna": "lona "
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Tômbwa (ex .Porto Alexandre )",
+        "comuna": "Tômbwa "
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Virei ",
+        "comuna": "Cainde "
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Virei ",
+        "comuna": "Virei "
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Camucuio ",
+        "comuna": "Camucuio "
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Camucuio ",
+        "comuna": "Chingo "
+    },
+    {
+        "provincia": "Namibe",
+        "municipio": "Camucuio ",
+        "comuna": "Mamúe "
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Uíge",
+        "comuna": "Uíge"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Ambuíla",
+        "comuna": "Ambuíla"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Ambuíla",
+        "comuna": "Quipedro"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Songo",
+        "comuna": "Songo"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Songo",
+        "comuna": "Kinvuenga"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Bembe",
+        "comuna": "Bembe"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Bembe",
+        "comuna": "Lucunga"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Bembe",
+        "comuna": "Mabaia"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Negage",
+        "comuna": "Negage"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Negage",
+        "comuna": "Dimuca"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Negage",
+        "comuna": "Quisseque"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Bungo",
+        "comuna": "Bungo"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Maquela do Zombo",
+        "comuna": "Maquela do Zombo"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Maquela do Zombo",
+        "comuna": "Quibocolo"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Maquela do Zombo",
+        "comuna": "Beu"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Maquela do Zombo",
+        "comuna": "Cuilo Futa"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Maquela do Zombo",
+        "comuna": "Sacandica"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Damba",
+        "comuna": "Damba"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Damba",
+        "comuna": "Lombe (N'Sosso)"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Damba",
+        "comuna": "Lemboa"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Damba",
+        "comuna": "Pete-Cusso (Ex-Sacamo)"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Damba",
+        "comuna": "Camatambo"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Cangola",
+        "comuna": "Cangola"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Cangola",
+        "comuna": "Caiongo"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Cangola",
+        "comuna": "Bengo"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Sanza Pombo",
+        "comuna": "Sanza Pombo"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Sanza Pombo",
+        "comuna": "Alfândega"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Sanza Pombo",
+        "comuna": "Cuilo Pombo"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Sanza Pombo",
+        "comuna": "Wamba"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Quitexe",
+        "comuna": "Quitexe"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Quitexe",
+        "comuna": "Quitende (Aldeia Vissosa)"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Quitexe",
+        "comuna": "Quifuafua (Vista Alegre)"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Quitexe",
+        "comuna": "Cambamba"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Quimbele",
+        "comuna": "Quimbele"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Quimbele",
+        "comuna": "Icoca"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Quimbele",
+        "comuna": "Cuango"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Quimbele",
+        "comuna": "Alto-Zaza"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Milunga(Ex.Santa Cruz)",
+        "comuna": "Santa Cruz (Milunga)"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Milunga(Ex.Santa Cruz)",
+        "comuna": "Macocola"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Milunga(Ex.Santa Cruz)",
+        "comuna": "Macolo"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Milunga(Ex.Santa Cruz)",
+        "comuna": "Massau"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Puri",
+        "comuna": "Puri"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Mucaba (ex. Quinzala)",
+        "comuna": "Quinzala"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Mucaba (ex. Quinzala)",
+        "comuna": "Uando"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Buengas (ex Nova Esperança)",
+        "comuna": "Nova Esperança"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Buengas (ex Nova Esperança)",
+        "comuna": "Cuilo Cambozo ( Camboso)"
+    },
+    {
+        "provincia": "Uíge",
+        "municipio": "Buengas (ex Nova Esperança)",
+        "comuna": "Quimbianda (Buenga Sul)"
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Mbanza Congo ",
+        "comuna": "Mbanza Congo "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Mbanza Congo ",
+        "comuna": "Luvo "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Mbanza Congo ",
+        "comuna": "Madimba "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Mbanza Congo ",
+        "comuna": "Kiende "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Mbanza Congo ",
+        "comuna": "NKalambata (Kalambota )"
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Mbanza Congo ",
+        "comuna": "Kaluca "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Soyo ",
+        "comuna": "Soyo "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Soyo ",
+        "comuna": "Pedra de Feitiço "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Soyo ",
+        "comuna": "Sumba "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Soyo ",
+        "comuna": "Quêlo "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Soyo ",
+        "comuna": "Mangua Grande "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Nzetu ",
+        "comuna": "Nzetu "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Nzetu ",
+        "comuna": "Kindege (Kindenje )"
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Nzetu ",
+        "comuna": "Musserra "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Nzetu ",
+        "comuna": "Quibala Norte (Loge )"
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Tomboco ",
+        "comuna": "Tomboco "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Tomboco ",
+        "comuna": "Kinzau "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Tomboco ",
+        "comuna": "Kinximba "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Nóqui ",
+        "comuna": "Nóqui "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Nóqui ",
+        "comuna": "Lufico "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Nóqui ",
+        "comuna": "Lulendo (Mpala )"
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Cuimba ",
+        "comuna": "Kuimba "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Cuimba ",
+        "comuna": "Buela "
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Cuimba ",
+        "comuna": "Kanda (Serra da Kanda )"
+    },
+    {
+        "provincia": "Zaire",
+        "municipio": "Cuimba ",
+        "comuna": "Luvaka "
+    }
+]
