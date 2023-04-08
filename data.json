@@ -1,0 +1,2573 @@
+[
+  {
+    "name": "Bengo",
+    "municipalities": [
+      {
+        "name": "Dande (Caxito)",
+        "districts": [
+          {
+            "name": "Caxito"
+          },
+          {
+            "name": "Barra do Dande"
+          },
+          {
+            "name": "Quicabo"
+          },
+          {
+            "name": "Úcua"
+          },
+          {
+            "name": "Mabubas"
+          }
+        ]
+      },
+      {
+        "name": "Ambriz",
+        "districts": [
+          {
+            "name": "Ambriz"
+          },
+          {
+            "name": "Bela Vista"
+          },
+          {
+            "name": "Tabi"
+          }
+        ]
+      },
+      {
+        "name": "Nambuangongo",
+        "districts": [
+          {
+            "name": "Muxiluando"
+          },
+          {
+            "name": "Canacassala"
+          },
+          {
+            "name": "Cage"
+          },
+          {
+            "name": "Gombe"
+          },
+          {
+            "name": "Quicunzo"
+          },
+          {
+            "name": "Quixico"
+          },
+          {
+            "name": "Zala"
+          }
+        ]
+      },
+      {
+        "name": "Bula-Atumba",
+        "districts": [
+          {
+            "name": "Bula-Atumba"
+          },
+          {
+            "name": "Quiage"
+          }
+        ]
+      },
+      {
+        "name": "Dembos-Quibaxe",
+        "districts": [
+          {
+            "name": "Quibaxe"
+          },
+          {
+            "name": "Piri"
+          },
+          {
+            "name": "Paredes"
+          },
+          {
+            "name": "S. José das Matas"
+          }
+        ]
+      },
+      {
+        "name": "Pango-Aluquem",
+        "districts": [
+          {
+            "name": "Pango-Aluquem"
+          },
+          {
+            "name": "Cazua- Ngongo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Benguela",
+    "municipalities": [
+      {
+        "name": "Benguela",
+        "districts": [
+          {
+            "name": "Benguela"
+          }
+        ]
+      },
+      {
+        "name": "Baía Farta",
+        "districts": [
+          {
+            "name": "Baía Farta"
+          },
+          {
+            "name": "Dombe Grande"
+          },
+          {
+            "name": "Calahanga"
+          },
+          {
+            "name": "Equimina"
+          }
+        ]
+      },
+      {
+        "name": "Lobito",
+        "districts": [
+          {
+            "name": "Lobito"
+          },
+          {
+            "name": "Egipto Praia"
+          },
+          {
+            "name": "Canjala"
+          }
+        ]
+      },
+      {
+        "name": "Cubal",
+        "districts": [
+          {
+            "name": "Cubal"
+          },
+          {
+            "name": "Yambala"
+          },
+          {
+            "name": "Capupa"
+          },
+          {
+            "name": "Tumbulo (Lomaum)"
+          }
+        ]
+      },
+      {
+        "name": "Ganda",
+        "districts": [
+          {
+            "name": "Ganda"
+          },
+          {
+            "name": "Babaera"
+          },
+          {
+            "name": "Chicuma"
+          },
+          {
+            "name": "Ebanga"
+          },
+          {
+            "name": "Casseque"
+          }
+        ]
+      },
+      {
+        "name": "Balombo",
+        "districts": [
+          {
+            "name": "Balombo"
+          },
+          {
+            "name": "Chingongo"
+          },
+          {
+            "name": "Chindumbo"
+          },
+          {
+            "name": "Maka-Mombolo"
+          }
+        ]
+      },
+      {
+        "name": "Bocoio",
+        "districts": [
+          {
+            "name": "Bocoio"
+          },
+          {
+            "name": "Chila"
+          },
+          {
+            "name": "Monte Belo"
+          },
+          {
+            "name": "Passe"
+          },
+          {
+            "name": "Cubal do Lumbo"
+          }
+        ]
+      },
+      {
+        "name": "Caimbambo",
+        "districts": [
+          {
+            "name": "Caimbambo"
+          },
+          {
+            "name": "Catengue"
+          },
+          {
+            "name": "Cayavi"
+          },
+          {
+            "name": "Wyangombe"
+          }
+        ]
+      },
+      {
+        "name": "Chongoroi",
+        "districts": [
+          {
+            "name": "Chongoroi"
+          },
+          {
+            "name": "Bolonguera"
+          },
+          {
+            "name": "Kamuine"
+          }
+        ]
+      },
+      {
+        "name": "Catumbela",
+        "districts": [
+          {
+            "name": "Catumbela"
+          },
+          {
+            "name": "Gama"
+          },
+          {
+            "name": "Biopio"
+          },
+          {
+            "name": "Praia Bebe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bié",
+    "municipalities": [
+      {
+        "name": "Cuito",
+        "districts": [
+          {
+            "name": "Cuito"
+          },
+          {
+            "name": "Trumba"
+          },
+          {
+            "name": "Kambândua"
+          },
+          {
+            "name": "Chicala"
+          },
+          {
+            "name": "Kunje"
+          }
+        ]
+      },
+      {
+        "name": "Cunhinga (Vouga)",
+        "districts": [
+          {
+            "name": "Cunhinga"
+          },
+          {
+            "name": "Belo Horizonte"
+          }
+        ]
+      },
+      {
+        "name": "Chinguar",
+        "districts": [
+          {
+            "name": "Chinguar"
+          },
+          {
+            "name": "Cangote"
+          },
+          {
+            "name": "Kutato"
+          }
+        ]
+      },
+      {
+        "name": "Andulo",
+        "districts": [
+          {
+            "name": "Andulo"
+          },
+          {
+            "name": "Chivaúlo"
+          },
+          {
+            "name": "Cassumbe"
+          },
+          {
+            "name": "Calucinga"
+          }
+        ]
+      },
+      {
+        "name": "N'harea",
+        "districts": [
+          {
+            "name": "N'harea"
+          },
+          {
+            "name": "Gamba"
+          },
+          {
+            "name": "Caiei"
+          },
+          {
+            "name": "Lubia"
+          },
+          {
+            "name": "Dando"
+          }
+        ]
+      },
+      {
+        "name": "Camacupa",
+        "districts": [
+          {
+            "name": "Camacupa"
+          },
+          {
+            "name": "Ringoma"
+          },
+          {
+            "name": "Umpulo"
+          },
+          {
+            "name": "St. António da Muinha"
+          },
+          {
+            "name": "Cuanza"
+          }
+        ]
+      },
+      {
+        "name": "Cuemba",
+        "districts": [
+          {
+            "name": "Cuemba"
+          },
+          {
+            "name": "Munhango"
+          },
+          {
+            "name": "Luando"
+          },
+          {
+            "name": "Sachinemuna"
+          }
+        ]
+      },
+      {
+        "name": "Chitembo",
+        "districts": [
+          {
+            "name": "Chitembo"
+          },
+          {
+            "name": "Cachingues"
+          },
+          {
+            "name": "Mumbue"
+          },
+          {
+            "name": "Mutumbo"
+          },
+          {
+            "name": "Malengue"
+          },
+          {
+            "name": "Soma Cuanza"
+          }
+        ]
+      },
+      {
+        "name": "Catabola (ex  Nova Sintra)",
+        "districts": [
+          {
+            "name": "Catabola"
+          },
+          {
+            "name": "Chipeta"
+          },
+          {
+            "name": "Sande"
+          },
+          {
+            "name": "Caiuera"
+          },
+          {
+            "name": "Chiuca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cabinda",
+    "municipalities": [
+      {
+        "name": "Cabinda",
+        "districts": [
+          {
+            "name": "Cabinda"
+          },
+          {
+            "name": "Malembo"
+          },
+          {
+            "name": "Tando Zinze"
+          }
+        ]
+      },
+      {
+        "name": "Cacongo (ex_Lândana)",
+        "districts": [
+          {
+            "name": "Cacongo"
+          },
+          {
+            "name": "Dinge"
+          },
+          {
+            "name": "Massabi"
+          }
+        ]
+      },
+      {
+        "name": "Buco Zau",
+        "districts": [
+          {
+            "name": "Buco Zau"
+          },
+          {
+            "name": "Inhuca (Nhuca)"
+          },
+          {
+            "name": "Necuto"
+          }
+        ]
+      },
+      {
+        "name": "Belize",
+        "districts": [
+          {
+            "name": "Belize"
+          },
+          {
+            "name": "Luali"
+          },
+          {
+            "name": "Miconge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cuando Cubango",
+    "municipalities": [
+      {
+        "name": "Menongue",
+        "districts": [
+          {
+            "name": "Menongue"
+          },
+          {
+            "name": "Cueio"
+          },
+          {
+            "name": "Caiundo"
+          },
+          {
+            "name": "Missombo"
+          }
+        ]
+      },
+      {
+        "name": "Cuito Cuanavale",
+        "districts": [
+          {
+            "name": "Cuito Cuanavale"
+          },
+          {
+            "name": "Longa"
+          },
+          {
+            "name": "Lupire"
+          },
+          {
+            "name": "Baixo Longa"
+          }
+        ]
+      },
+      {
+        "name": "Cuangar",
+        "districts": [
+          {
+            "name": "Cuangar"
+          },
+          {
+            "name": "Savate"
+          },
+          {
+            "name": "Bondo"
+          }
+        ]
+      },
+      {
+        "name": "Rivungo",
+        "districts": [
+          {
+            "name": "Rivungo"
+          },
+          {
+            "name": "Luiana"
+          },
+          {
+            "name": "Nerinquinha"
+          },
+          {
+            "name": "Chipundo"
+          }
+        ]
+      },
+      {
+        "name": "Mavinga",
+        "districts": [
+          {
+            "name": "Mavinga"
+          },
+          {
+            "name": "Cunjamba-Dima"
+          },
+          {
+            "name": "Cutuile"
+          },
+          {
+            "name": "Luengue"
+          }
+        ]
+      },
+      {
+        "name": "Cuchi",
+        "districts": [
+          {
+            "name": "Cuchi"
+          },
+          {
+            "name": "Cutato"
+          },
+          {
+            "name": "Chinguanja"
+          },
+          {
+            "name": "Vissati"
+          }
+        ]
+      },
+      {
+        "name": "Dirico",
+        "districts": [
+          {
+            "name": "Dirico"
+          },
+          {
+            "name": "Chamavera"
+          },
+          {
+            "name": "Mucusso"
+          }
+        ]
+      },
+      {
+        "name": "Nancova",
+        "districts": [
+          {
+            "name": "Nancova"
+          },
+          {
+            "name": "Rito"
+          }
+        ]
+      },
+      {
+        "name": "Calai",
+        "districts": [
+          {
+            "name": "Calai"
+          },
+          {
+            "name": "Maue"
+          },
+          {
+            "name": "Mavengue"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cuanza Norte",
+    "municipalities": [
+      {
+        "name": "Cazengo",
+        "districts": [
+          {
+            "name": "Ndalatando"
+          },
+          {
+            "name": "Canhoca (Ex Caculo)"
+          }
+        ]
+      },
+      {
+        "name": "Lucala",
+        "districts": [
+          {
+            "name": "Lucala"
+          },
+          {
+            "name": "Kiangombe"
+          }
+        ]
+      },
+      {
+        "name": "Golungo Alto",
+        "districts": [
+          {
+            "name": "Golungo Alto"
+          },
+          {
+            "name": "Cambondo"
+          },
+          {
+            "name": "Cerca"
+          },
+          {
+            "name": "Kiluange"
+          }
+        ]
+      },
+      {
+        "name": "Cambambe",
+        "districts": [
+          {
+            "name": "Dondo"
+          },
+          {
+            "name": "Massangano"
+          },
+          {
+            "name": "S. Pedro da Quilemba"
+          },
+          {
+            "name": "Zenza do Itombe"
+          },
+          {
+            "name": "Dange-Ya-Menha"
+          }
+        ]
+      },
+      {
+        "name": "Ambaca",
+        "districts": [
+          {
+            "name": "Ambaca (ex Camabatela)"
+          },
+          {
+            "name": "Luinga"
+          },
+          {
+            "name": "Tango"
+          },
+          {
+            "name": "Maua"
+          },
+          {
+            "name": "Bindo"
+          }
+        ]
+      },
+      {
+        "name": "Quiculungo",
+        "districts": [
+          {
+            "name": "Kiculungo"
+          }
+        ]
+      },
+      {
+        "name": "Bolongongo",
+        "districts": [
+          {
+            "name": "Bolongongo"
+          },
+          {
+            "name": "Terreiro"
+          },
+          {
+            "name": "Kiquiemba"
+          }
+        ]
+      },
+      {
+        "name": "Banga",
+        "districts": [
+          {
+            "name": "Banga"
+          },
+          {
+            "name": "Aldeia Nova"
+          },
+          {
+            "name": "Caculo Cabaça"
+          },
+          {
+            "name": "Cariamba"
+          }
+        ]
+      },
+      {
+        "name": "Samba Cajú",
+        "districts": [
+          {
+            "name": "Samba Cajú"
+          },
+          {
+            "name": "Samba Lucala"
+          }
+        ]
+      },
+      {
+        "name": "Ngonguembo",
+        "districts": [
+          {
+            "name": "Quilombo dos Dembos"
+          },
+          {
+            "name": "Camame"
+          },
+          {
+            "name": "Cavunga"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cuanza Sul",
+    "municipalities": [
+      {
+        "name": "Sumbe (ex  Ngunza)",
+        "districts": [
+          {
+            "name": "Sumbe Sede"
+          },
+          {
+            "name": "Gungo"
+          },
+          {
+            "name": "Ngangula"
+          },
+          {
+            "name": "Kicombo"
+          }
+        ]
+      },
+      {
+        "name": "Amboim (ex  Gabela)",
+        "districts": [
+          {
+            "name": "Gabela Sede"
+          },
+          {
+            "name": "Assango"
+          }
+        ]
+      },
+      {
+        "name": "Quilenda",
+        "districts": [
+          {
+            "name": "Quilenda"
+          },
+          {
+            "name": "Quirimbo"
+          }
+        ]
+      },
+      {
+        "name": "Porto Amboim",
+        "districts": [
+          {
+            "name": "Porto Amboim"
+          },
+          {
+            "name": "Kapolo"
+          }
+        ]
+      },
+      {
+        "name": "Libolo (ex  Calulo)",
+        "districts": [
+          {
+            "name": "Calulo"
+          },
+          {
+            "name": "Munenga"
+          },
+          {
+            "name": "Kabuta"
+          },
+          {
+            "name": "Kissongo"
+          }
+        ]
+      },
+      {
+        "name": "Quibala",
+        "districts": [
+          {
+            "name": "Quibala"
+          },
+          {
+            "name": "Ndala Kachibo"
+          },
+          {
+            "name": "Kariango"
+          },
+          {
+            "name": "Lonhe"
+          }
+        ]
+      },
+      {
+        "name": "Mussende",
+        "districts": [
+          {
+            "name": "Mussende"
+          },
+          {
+            "name": "Kienha"
+          },
+          {
+            "name": "S. Lucas"
+          }
+        ]
+      },
+      {
+        "name": "Seles (ex  Uku Seles)",
+        "districts": [
+          {
+            "name": "Uku-Seles"
+          },
+          {
+            "name": "Amboiva"
+          },
+          {
+            "name": "Botera (Catanda)"
+          }
+        ]
+      },
+      {
+        "name": "Conda",
+        "districts": [
+          {
+            "name": "Conda"
+          },
+          {
+            "name": "Cunjo"
+          }
+        ]
+      },
+      {
+        "name": "Cassongue",
+        "districts": [
+          {
+            "name": "Cassongue"
+          },
+          {
+            "name": "Dumbi"
+          },
+          {
+            "name": "Pambangala"
+          },
+          {
+            "name": "Atóme"
+          }
+        ]
+      },
+      {
+        "name": "Cela (ex Waku-Kungo)",
+        "districts": [
+          {
+            "name": "Cela (ex Waku-Kungo)"
+          },
+          {
+            "name": "Sanga"
+          },
+          {
+            "name": "Kissanga Kungo"
+          }
+        ]
+      },
+      {
+        "name": "Ebo",
+        "districts": [
+          {
+            "name": "Ebo"
+          },
+          {
+            "name": "Conde"
+          },
+          {
+            "name": "Cassange"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cunene",
+    "municipalities": [
+      {
+        "name": "Cuanhama",
+        "districts": [
+          {
+            "name": "Ondjiva"
+          },
+          {
+            "name": "Môngua"
+          },
+          {
+            "name": "Evale"
+          },
+          {
+            "name": "Cafima-Nehone"
+          },
+          {
+            "name": "Tchimporo-Yonde"
+          }
+        ]
+      },
+      {
+        "name": "Ombadja (ex Cuamato)",
+        "districts": [
+          {
+            "name": "Xangongo"
+          },
+          {
+            "name": "Ombala-yo-Mungu"
+          },
+          {
+            "name": "Humbe"
+          },
+          {
+            "name": "Mucope /Mucoma"
+          },
+          {
+            "name": "Naulila"
+          }
+        ]
+      },
+      {
+        "name": "Cuvelai",
+        "districts": [
+          {
+            "name": "Omukolongonjo"
+          },
+          {
+            "name": "Kalonga"
+          },
+          {
+            "name": "Kuvati (Ex-Kubati)"
+          },
+          {
+            "name": "Omunda (Mupa)"
+          }
+        ]
+      },
+      {
+        "name": "Curoca (ex Oncocua)",
+        "districts": [
+          {
+            "name": "Kuroca"
+          },
+          {
+            "name": "Chitado"
+          }
+        ]
+      },
+      {
+        "name": "Namacunde",
+        "districts": [
+          {
+            "name": "Namacunde"
+          },
+          {
+            "name": "Melunga_Chiede"
+          }
+        ]
+      },
+      {
+        "name": "Cahama",
+        "districts": [
+          {
+            "name": "Kahama"
+          },
+          {
+            "name": "Otchinjau"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Huambo",
+    "municipalities": [
+      {
+        "name": "Huambo",
+        "districts": [
+          {
+            "name": "Huambo"
+          },
+          {
+            "name": "Calima"
+          },
+          {
+            "name": "Tchipipa"
+          }
+        ]
+      },
+      {
+        "name": "Tchikala-Tcholohanga",
+        "districts": [
+          {
+            "name": "Tchikala Tcholohanga"
+          },
+          {
+            "name": "Mbave"
+          },
+          {
+            "name": "Sambo"
+          },
+          {
+            "name": "Hungulo"
+          }
+        ]
+      },
+      {
+        "name": "Catchiungo",
+        "districts": [
+          {
+            "name": "Katchiungo"
+          },
+          {
+            "name": "Tchiumbo"
+          },
+          {
+            "name": "Tchinhama"
+          }
+        ]
+      },
+      {
+        "name": "Bailundo",
+        "districts": [
+          {
+            "name": "Bailundo"
+          },
+          {
+            "name": "M'Bimbi (ex Bimbe)"
+          },
+          {
+            "name": "Lunje"
+          },
+          {
+            "name": "Luvemba"
+          },
+          {
+            "name": "Hengue (kululo)"
+          }
+        ]
+      },
+      {
+        "name": "Caála",
+        "districts": [
+          {
+            "name": "Caála"
+          },
+          {
+            "name": "Cuima"
+          },
+          {
+            "name": "Catata"
+          },
+          {
+            "name": "Calenga"
+          }
+        ]
+      },
+      {
+        "name": "Ecunha",
+        "districts": [
+          {
+            "name": "Ecunha"
+          },
+          {
+            "name": "Chipeio"
+          }
+        ]
+      },
+      {
+        "name": "Ukuma",
+        "districts": [
+          {
+            "name": "Ukuma"
+          },
+          {
+            "name": "Cacoma"
+          },
+          {
+            "name": "Mundundo"
+          }
+        ]
+      },
+      {
+        "name": "Longonjo",
+        "districts": [
+          {
+            "name": "Longonjo"
+          },
+          {
+            "name": "Lépi"
+          },
+          {
+            "name": "Catabola"
+          },
+          {
+            "name": "Chilata (Ngombe-yá Lamba)"
+          }
+        ]
+      },
+      {
+        "name": "Mungo",
+        "districts": [
+          {
+            "name": "Mungo"
+          },
+          {
+            "name": "Cambuengo"
+          }
+        ]
+      },
+      {
+        "name": "Londuimbale",
+        "districts": [
+          {
+            "name": "Londuimbale"
+          },
+          {
+            "name": "Kumbila (Katukuluca)"
+          },
+          {
+            "name": "Galanga"
+          },
+          {
+            "name": "Ussoque"
+          },
+          {
+            "name": "Alto Hama"
+          }
+        ]
+      },
+      {
+        "name": "Tchinjenje",
+        "districts": [
+          {
+            "name": "Tchinjenje"
+          },
+          {
+            "name": "Tchiaka"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Huíla",
+    "municipalities": [
+      {
+        "name": "Lubango",
+        "districts": [
+          {
+            "name": "Arimba"
+          },
+          {
+            "name": "Hoque"
+          },
+          {
+            "name": "Huila"
+          },
+          {
+            "name": "Lubango"
+          },
+          {
+            "name": "Quilenda"
+          }
+        ]
+      },
+      {
+        "name": "Caconda",
+        "districts": [
+          {
+            "name": "Caconda"
+          },
+          {
+            "name": "Cusse"
+          },
+          {
+            "name": "Gungui"
+          },
+          {
+            "name": "Uaba"
+          }
+        ]
+      },
+      {
+        "name": "Cacula",
+        "districts": [
+          {
+            "name": "Cacula"
+          },
+          {
+            "name": "Chicuaqueia"
+          },
+          {
+            "name": "Tchituto"
+          },
+          {
+            "name": "Vite-Vivar"
+          }
+        ]
+      },
+      {
+        "name": "Caluquembe",
+        "districts": [
+          {
+            "name": "Calépi"
+          },
+          {
+            "name": "Caluquembe"
+          },
+          {
+            "name": "N'gola"
+          }
+        ]
+      },
+      {
+        "name": "Chibia",
+        "districts": [
+          {
+            "name": "Capunda Cavilongo"
+          },
+          {
+            "name": "Chibia"
+          },
+          {
+            "name": "Jau"
+          },
+          {
+            "name": "Quihita"
+          }
+        ]
+      },
+      {
+        "name": "Chicomba",
+        "districts": [
+          {
+            "name": "Chicomba"
+          },
+          {
+            "name": "Kutenda (ex Chitenda)"
+          },
+          {
+            "name": "Libongue"
+          },
+          {
+            "name": "Quê"
+          }
+        ]
+      },
+      {
+        "name": "Chipindo",
+        "districts": [
+          {
+            "name": "Bambi"
+          },
+          {
+            "name": "Bunjei"
+          },
+          {
+            "name": "Chipindo"
+          }
+        ]
+      },
+      {
+        "name": "Cuvango",
+        "districts": [
+          {
+            "name": "Cuvango"
+          },
+          {
+            "name": "Galangue"
+          },
+          {
+            "name": "Vicungo"
+          }
+        ]
+      },
+      {
+        "name": "Gambos (ex-Chiange)",
+        "districts": [
+          {
+            "name": "Chimbemba"
+          },
+          {
+            "name": "Gambos"
+          }
+        ]
+      },
+      {
+        "name": "Humpata",
+        "districts": [
+          {
+            "name": "Bata-bata"
+          },
+          {
+            "name": "Humpata"
+          },
+          {
+            "name": "Kaholo"
+          },
+          {
+            "name": "Neves"
+          },
+          {
+            "name": "Palanca"
+          }
+        ]
+      },
+      {
+        "name": "Jamba",
+        "districts": [
+          {
+            "name": "Dongo"
+          },
+          {
+            "name": "Jamba"
+          },
+          {
+            "name": "Tchamutete (ex-Cassinga)"
+          }
+        ]
+      },
+      {
+        "name": "Matala",
+        "districts": [
+          {
+            "name": "Capelongo"
+          },
+          {
+            "name": "Matala"
+          },
+          {
+            "name": "Micosse"
+          },
+          {
+            "name": "Mulondo"
+          }
+        ]
+      },
+      {
+        "name": "Quilengues",
+        "districts": [
+          {
+            "name": "Dinde"
+          },
+          {
+            "name": "Impulo"
+          },
+          {
+            "name": "Quilengues"
+          }
+        ]
+      },
+      {
+        "name": "Quipungo",
+        "districts": [
+          {
+            "name": "Cainda"
+          },
+          {
+            "name": "Chicungo"
+          },
+          {
+            "name": "Ombo"
+          },
+          {
+            "name": "Quipungo"
+          },
+          {
+            "name": "Tchiconco"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Luanda",
+    "municipalities": [
+      {
+        "name": "Cazenga",
+        "districts": [
+          {
+            "name": "Cazenga"
+          },
+          {
+            "name": "Hoji Ya Henda"
+          },
+          {
+            "name": "Tala Hadi"
+          }
+        ]
+      },
+      {
+        "name": "Cacuaco",
+        "districts": [
+          {
+            "name": "Cacuaco"
+          },
+          {
+            "name": "Funda"
+          },
+          {
+            "name": "Kikolo"
+          }
+        ]
+      },
+      {
+        "name": "Viana",
+        "districts": [
+          {
+            "name": "Viana"
+          },
+          {
+            "name": "Zango"
+          },
+          {
+            "name": "Calumbo"
+          }
+        ]
+      },
+      {
+        "name": "Luanda",
+        "districts": [
+          {
+            "name": "Ingombota"
+          },
+          {
+            "name": "Maianga"
+          },
+          {
+            "name": "Samba"
+          },
+          {
+            "name": "Rangel"
+          },
+          {
+            "name": "Sambizanga"
+          },
+          {
+            "name": "Kilamba Kiaxi"
+          }
+        ]
+      },
+      {
+        "name": "Belas",
+        "districts": [
+          {
+            "name": "Barra do Kwanza"
+          },
+          {
+            "name": "Kilamba"
+          },
+          {
+            "name": "Camama"
+          },
+          {
+            "name": "Benfica"
+          },
+          {
+            "name": "Mussulo"
+          },
+          {
+            "name": "Futungo de Belas"
+          },
+          {
+            "name": "Ramiros"
+          }
+        ]
+      },
+      {
+        "name": "Icolo e  Bengo",
+        "districts": [
+          {
+            "name": "Catete"
+          },
+          {
+            "name": "Bom Jesus"
+          },
+          {
+            "name": "Cabiri"
+          },
+          {
+            "name": "Calomboloca"
+          },
+          {
+            "name": "Caculo Cahongo"
+          }
+        ]
+      },
+      {
+        "name": "Quissama",
+        "districts": [
+          {
+            "name": "Muxima"
+          },
+          {
+            "name": "Demba Chio"
+          },
+          {
+            "name": "Mumbondo"
+          },
+          {
+            "name": "Kixinge"
+          },
+          {
+            "name": "Cabo Ledo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lunda Norte",
+    "municipalities": [
+      {
+        "name": "Lucapa",
+        "districts": [
+          {
+            "name": "Lucapa"
+          },
+          {
+            "name": "Camissombo"
+          },
+          {
+            "name": "Capaia"
+          },
+          {
+            "name": "Xa-Cassau"
+          }
+        ]
+      },
+      {
+        "name": "Cambulo",
+        "districts": [
+          {
+            "name": "Cambulo"
+          },
+          {
+            "name": "Canzar"
+          },
+          {
+            "name": "Cachimo"
+          },
+          {
+            "name": "Luia"
+          }
+        ]
+      },
+      {
+        "name": "Chitato",
+        "districts": [
+          {
+            "name": "Chitato"
+          },
+          {
+            "name": "Luachimo"
+          }
+        ]
+      },
+      {
+        "name": "Cuilo",
+        "districts": [
+          {
+            "name": "Cuilo"
+          },
+          {
+            "name": "Caluango"
+          }
+        ]
+      },
+      {
+        "name": "Caungula",
+        "districts": [
+          {
+            "name": "Caungula"
+          },
+          {
+            "name": "Camaxilo"
+          }
+        ]
+      },
+      {
+        "name": "Cuango",
+        "districts": [
+          {
+            "name": "Cuango"
+          },
+          {
+            "name": "Luremo"
+          }
+        ]
+      },
+      {
+        "name": "Lubalo",
+        "districts": [
+          {
+            "name": "Lubalo"
+          },
+          {
+            "name": "Muvulege"
+          },
+          {
+            "name": "Luangue"
+          }
+        ]
+      },
+      {
+        "name": "Capenda-Camulemba",
+        "districts": [
+          {
+            "name": "Capenda-Camulemba"
+          },
+          {
+            "name": "Xinge"
+          }
+        ]
+      },
+      {
+        "name": "Xá-Muteba",
+        "districts": [
+          {
+            "name": "Xá-Muteba"
+          },
+          {
+            "name": "longo"
+          },
+          {
+            "name": "Cassange-Calucala"
+          }
+        ]
+      },
+      {
+        "name": "Lóvua",
+        "districts": [
+          {
+            "name": "Lóvua"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lunda Sul",
+    "municipalities": [
+      {
+        "name": "Saurimo",
+        "districts": [
+          {
+            "name": "Saurimo"
+          },
+          {
+            "name": "Mona Quimbundo"
+          },
+          {
+            "name": "Sombo"
+          }
+        ]
+      },
+      {
+        "name": "Muconda",
+        "districts": [
+          {
+            "name": "Muconda"
+          },
+          {
+            "name": "Chiluanje"
+          },
+          {
+            "name": "Murieje"
+          },
+          {
+            "name": "Cassai-Sul"
+          }
+        ]
+      },
+      {
+        "name": "Dala",
+        "districts": [
+          {
+            "name": "Dala"
+          },
+          {
+            "name": "Cazaje"
+          },
+          {
+            "name": "Luma Cassai"
+          }
+        ]
+      },
+      {
+        "name": "Cacolo",
+        "districts": [
+          {
+            "name": "Cacolo"
+          },
+          {
+            "name": "Alto-Chicapa"
+          },
+          {
+            "name": "Cucumbi"
+          },
+          {
+            "name": "Xassengue"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Malange",
+    "municipalities": [
+      {
+        "name": "Malanje",
+        "districts": [
+          {
+            "name": "Malanje"
+          },
+          {
+            "name": "Cambaxe"
+          },
+          {
+            "name": "Ngola-Luige"
+          }
+        ]
+      },
+      {
+        "name": "Cacuso",
+        "districts": [
+          {
+            "name": "Cacuso"
+          },
+          {
+            "name": "Pungo-Andongo"
+          },
+          {
+            "name": "Lombe"
+          },
+          {
+            "name": "Quizenga"
+          },
+          {
+            "name": "Soqueco"
+          }
+        ]
+      },
+      {
+        "name": "Calandula",
+        "districts": [
+          {
+            "name": "Calandula"
+          },
+          {
+            "name": "Kateco-Kangola"
+          },
+          {
+            "name": "Cuale"
+          },
+          {
+            "name": "Kota"
+          },
+          {
+            "name": "Kinge"
+          }
+        ]
+      },
+      {
+        "name": "Cambundi-Catembo",
+        "districts": [
+          {
+            "name": "Cambundi-Catembo"
+          },
+          {
+            "name": "Tala-Mungongo"
+          },
+          {
+            "name": "Dumba Kabango"
+          },
+          {
+            "name": "Kitapa- sede"
+          }
+        ]
+      },
+      {
+        "name": "Quela",
+        "districts": [
+          {
+            "name": "Quela"
+          },
+          {
+            "name": "Xandele"
+          },
+          {
+            "name": "Moma"
+          },
+          {
+            "name": "Bangâlas"
+          }
+        ]
+      },
+      {
+        "name": "Cahombo",
+        "districts": [
+          {
+            "name": "Kahombo"
+          },
+          {
+            "name": "Mikanda"
+          },
+          {
+            "name": "Kambo- Suinginge"
+          },
+          {
+            "name": "Bange-Angola"
+          }
+        ]
+      },
+      {
+        "name": "Massango",
+        "districts": [
+          {
+            "name": "Massango"
+          },
+          {
+            "name": "Kihuhu"
+          },
+          {
+            "name": "Kinguengue"
+          }
+        ]
+      },
+      {
+        "name": "Luquembo",
+        "districts": [
+          {
+            "name": "Luquembo"
+          },
+          {
+            "name": "Kimbango"
+          },
+          {
+            "name": "Dombo"
+          },
+          {
+            "name": "Kapunda"
+          },
+          {
+            "name": "Cunga-Palanca"
+          },
+          {
+            "name": "Rimba"
+          }
+        ]
+      },
+      {
+        "name": "Marimba",
+        "districts": [
+          {
+            "name": "Marimba"
+          },
+          {
+            "name": "Dala-Samba (Kahombo)"
+          },
+          {
+            "name": "Tembo-Aluma"
+          }
+        ]
+      },
+      {
+        "name": "Cunda-Dia-Baze",
+        "districts": [
+          {
+            "name": "Cunda-Dia-Baze"
+          },
+          {
+            "name": "Milando"
+          },
+          {
+            "name": "Lemba"
+          }
+        ]
+      },
+      {
+        "name": "Quirima",
+        "districts": [
+          {
+            "name": "Quirima"
+          },
+          {
+            "name": "Sautar"
+          }
+        ]
+      },
+      {
+        "name": "Mucari",
+        "districts": [
+          {
+            "name": "Mucari (Caculama)"
+          },
+          {
+            "name": "Muquixi"
+          },
+          {
+            "name": "Catala"
+          },
+          {
+            "name": "Caxinga"
+          }
+        ]
+      },
+      {
+        "name": "Cangandala",
+        "districts": [
+          {
+            "name": "Cangandala"
+          },
+          {
+            "name": "Caribo"
+          },
+          {
+            "name": "Mbembo"
+          },
+          {
+            "name": "Kulamagia"
+          }
+        ]
+      },
+      {
+        "name": "Quiuaba-N'zongi",
+        "districts": [
+          {
+            "name": "Quiuaba-N'zongi"
+          },
+          {
+            "name": "Mufuma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Moxico",
+    "municipalities": [
+      {
+        "name": "Luena",
+        "districts": [
+          {
+            "name": "Luena"
+          },
+          {
+            "name": "Cangumbe /Cachipoque"
+          },
+          {
+            "name": "Lucusse"
+          },
+          {
+            "name": "Lutuai (Muangai)"
+          }
+        ]
+      },
+      {
+        "name": "Camanongue",
+        "districts": [
+          {
+            "name": "Camanongue"
+          }
+        ]
+      },
+      {
+        "name": "Léua",
+        "districts": [
+          {
+            "name": "Léua"
+          },
+          {
+            "name": "Liangongo (Sandando)"
+          }
+        ]
+      },
+      {
+        "name": "Luacano",
+        "districts": [
+          {
+            "name": "Luacano"
+          },
+          {
+            "name": "Lago-Dilolo"
+          }
+        ]
+      },
+      {
+        "name": "Cameias",
+        "districts": [
+          {
+            "name": "Cameia"
+          }
+        ]
+      },
+      {
+        "name": "Bundas-Lumbala-Nguimbo",
+        "districts": [
+          {
+            "name": "Lumbala- Nguimbo"
+          },
+          {
+            "name": "Chiume"
+          },
+          {
+            "name": "Lutembo"
+          },
+          {
+            "name": "Mussuma"
+          },
+          {
+            "name": "Ninda"
+          },
+          {
+            "name": "Sessa"
+          },
+          {
+            "name": "Luvuei"
+          }
+        ]
+      },
+      {
+        "name": "Luchazes",
+        "districts": [
+          {
+            "name": "Luchazes"
+          },
+          {
+            "name": "Tempue"
+          },
+          {
+            "name": "Cassamba"
+          },
+          {
+            "name": "Muie"
+          },
+          {
+            "name": "Cangombe"
+          }
+        ]
+      },
+      {
+        "name": "Alto Zambeze",
+        "districts": [
+          {
+            "name": "Cazombo"
+          },
+          {
+            "name": "Caianda"
+          },
+          {
+            "name": "Calunda"
+          },
+          {
+            "name": "Lóvua"
+          },
+          {
+            "name": "Caquengue"
+          },
+          {
+            "name": "Macondo"
+          },
+          {
+            "name": "Cavungo"
+          }
+        ]
+      },
+      {
+        "name": "Luau",
+        "districts": [
+          {
+            "name": "Luau"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Namibe",
+    "municipalities": [
+      {
+        "name": "Namibe",
+        "districts": [
+          {
+            "name": "Bentiaba"
+          },
+          {
+            "name": "Lucira"
+          },
+          {
+            "name": "Namibe (Forte Santa Rita)"
+          }
+        ]
+      },
+      {
+        "name": "Bibala",
+        "districts": [
+          {
+            "name": "Bibala"
+          },
+          {
+            "name": "Caitou"
+          },
+          {
+            "name": "Kapangombe"
+          },
+          {
+            "name": "Lola"
+          }
+        ]
+      },
+      {
+        "name": "Tômbwa (ex Porto Alexandre)",
+        "districts": [
+          {
+            "name": "lona"
+          },
+          {
+            "name": "Tômbwa"
+          }
+        ]
+      },
+      {
+        "name": "Virei",
+        "districts": [
+          {
+            "name": "Cainde"
+          },
+          {
+            "name": "Virei"
+          }
+        ]
+      },
+      {
+        "name": "Camucuio",
+        "districts": [
+          {
+            "name": "Camucuio"
+          },
+          {
+            "name": "Chingo"
+          },
+          {
+            "name": "Mamúe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Uíge",
+    "municipalities": [
+      {
+        "name": "Uíge",
+        "districts": [
+          {
+            "name": "Uíge"
+          }
+        ]
+      },
+      {
+        "name": "Ambuíla",
+        "districts": [
+          {
+            "name": "Ambuíla"
+          },
+          {
+            "name": "Quipedro"
+          }
+        ]
+      },
+      {
+        "name": "Songo",
+        "districts": [
+          {
+            "name": "Songo"
+          },
+          {
+            "name": "Kinvuenga"
+          }
+        ]
+      },
+      {
+        "name": "Bembe",
+        "districts": [
+          {
+            "name": "Bembe"
+          },
+          {
+            "name": "Lucunga"
+          },
+          {
+            "name": "Mabaia"
+          }
+        ]
+      },
+      {
+        "name": "Negage",
+        "districts": [
+          {
+            "name": "Negage"
+          },
+          {
+            "name": "Dimuca"
+          },
+          {
+            "name": "Quisseque"
+          }
+        ]
+      },
+      {
+        "name": "Bungo",
+        "districts": [
+          {
+            "name": "Bungo"
+          }
+        ]
+      },
+      {
+        "name": "Maquela do Zombo",
+        "districts": [
+          {
+            "name": "Maquela do Zombo"
+          },
+          {
+            "name": "Quibocolo"
+          },
+          {
+            "name": "Beu"
+          },
+          {
+            "name": "Cuilo Futa"
+          },
+          {
+            "name": "Sacandica"
+          }
+        ]
+      },
+      {
+        "name": "Damba",
+        "districts": [
+          {
+            "name": "Damba"
+          },
+          {
+            "name": "Lombe (N'Sosso)"
+          },
+          {
+            "name": "Lemboa"
+          },
+          {
+            "name": "Pete-Cusso (Ex-Sacamo)"
+          },
+          {
+            "name": "Camatambo"
+          }
+        ]
+      },
+      {
+        "name": "Cangola",
+        "districts": [
+          {
+            "name": "Cangola"
+          },
+          {
+            "name": "Caiongo"
+          },
+          {
+            "name": "Bengo"
+          }
+        ]
+      },
+      {
+        "name": "Sanza Pombo",
+        "districts": [
+          {
+            "name": "Sanza Pombo"
+          },
+          {
+            "name": "Alfândega"
+          },
+          {
+            "name": "Cuilo Pombo"
+          },
+          {
+            "name": "Wamba"
+          }
+        ]
+      },
+      {
+        "name": "Quitexe",
+        "districts": [
+          {
+            "name": "Quitexe"
+          },
+          {
+            "name": "Quitende (Aldeia Vissosa)"
+          },
+          {
+            "name": "Quifuafua (Vista Alegre)"
+          },
+          {
+            "name": "Cambamba"
+          }
+        ]
+      },
+      {
+        "name": "Quimbele",
+        "districts": [
+          {
+            "name": "Quimbele"
+          },
+          {
+            "name": "Icoca"
+          },
+          {
+            "name": "Cuango"
+          },
+          {
+            "name": "Alto-Zaza"
+          }
+        ]
+      },
+      {
+        "name": "Milunga(ex Santa Cruz)",
+        "districts": [
+          {
+            "name": "Santa Cruz (Milunga)"
+          },
+          {
+            "name": "Macocola"
+          },
+          {
+            "name": "Macolo"
+          },
+          {
+            "name": "Massau"
+          }
+        ]
+      },
+      {
+        "name": "Puri",
+        "districts": [
+          {
+            "name": "Puri"
+          }
+        ]
+      },
+      {
+        "name": "Mucaba (ex  Quinzala)",
+        "districts": [
+          {
+            "name": "Quinzala"
+          },
+          {
+            "name": "Uando"
+          }
+        ]
+      },
+      {
+        "name": "Buengas (ex Nova Esperança)",
+        "districts": [
+          {
+            "name": "Nova Esperança"
+          },
+          {
+            "name": "Cuilo Cambozo (Camboso)"
+          },
+          {
+            "name": "Quimbianda (Buenga Sul)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zaire",
+    "municipalities": [
+      {
+        "name": "Mbanza Congo",
+        "districts": [
+          {
+            "name": "Mbanza Congo"
+          },
+          {
+            "name": "Luvo"
+          },
+          {
+            "name": "Madimba"
+          },
+          {
+            "name": "Kiende"
+          },
+          {
+            "name": "NKalambata (Kalambota)"
+          },
+          {
+            "name": "Kaluca"
+          }
+        ]
+      },
+      {
+        "name": "Soyo",
+        "districts": [
+          {
+            "name": "Soyo"
+          },
+          {
+            "name": "Pedra de Feitiço"
+          },
+          {
+            "name": "Sumba"
+          },
+          {
+            "name": "Quêlo"
+          },
+          {
+            "name": "Mangua Grande"
+          }
+        ]
+      },
+      {
+        "name": "Nzetu",
+        "districts": [
+          {
+            "name": "Nzetu"
+          },
+          {
+            "name": "Kindege (Kindenje)"
+          },
+          {
+            "name": "Musserra"
+          },
+          {
+            "name": "Quibala Norte (Loge)"
+          }
+        ]
+      },
+      {
+        "name": "Tomboco",
+        "districts": [
+          {
+            "name": "Tomboco"
+          },
+          {
+            "name": "Kinzau"
+          },
+          {
+            "name": "Kinximba"
+          }
+        ]
+      },
+      {
+        "name": "Nóqui",
+        "districts": [
+          {
+            "name": "Nóqui"
+          },
+          {
+            "name": "Lufico"
+          },
+          {
+            "name": "Lulendo (Mpala)"
+          }
+        ]
+      },
+      {
+        "name": "Cuimba",
+        "districts": [
+          {
+            "name": "Kuimba"
+          },
+          {
+            "name": "Buela"
+          },
+          {
+            "name": "Kanda (Serra da Kanda)"
+          },
+          {
+            "name": "Luvaka"
+          }
+        ]
+      }
+    ]
+  }
+]
